@@ -30,12 +30,17 @@ value:生产证书的名字
 ### 第四步 开始打包
 打开终端 cd 到项目的根目录下
 执行
-```cpp,monokai
+```CPP，monokai
 $ ./shell.sh
 ```
 选择 发布到的地方 1 为App Store
-
-## 结束 打王者荣耀去吧
+###查看导出的文件
+打开项目根目录脚本运行结束或或多出两个文件件一个是IPADir 一个是build
+IPADir:存放ipa文件
+build:存放dsym等文件
+##主要事项
+1.再次运行脚本 需要将根目录下的build 和ipadir文件夹删除 否则会清理失败
+##结束打王者荣耀去吧
   ###参考文章
 https://www.jianshu.com/p/121fe6fdc4e9
 https://www.jianshu.com/p/4f4d16326152
