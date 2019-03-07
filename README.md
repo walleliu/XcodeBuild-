@@ -38,7 +38,7 @@ $ ./shell.sh
 打开项目根目录脚本运行结束或或多出两个文件件一个是IPADir 一个是build
 IPADir:存放ipa文件
 build:存放dsym等文件
-## 主要事项
+## <font color=red>注意事项</font>
 1.再次运行脚本 需要将根目录下的build 和ipadir文件夹删除 否则会清理失败
 ## 结束打王者荣耀去吧
   ### 参考文章
