@@ -1,4 +1,4 @@
-# XcodeBuild-
+# XcodeBuild
 傻瓜式教程自动化打包上传至App Store
 
 前言
