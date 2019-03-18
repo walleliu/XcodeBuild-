@@ -1,6 +1,6 @@
 # XcodeBuild
 傻瓜式教程自动化打包上传至App Store
-tttttttttttt
+ttttttttttttsss
 前言
 ---
   APP完成时需要打包上传至APP Store, 在打包的时候多多少少都需要半小时左右,最主要的是如果用的是xcode打包需要有人看守,在接触到自动化打包后觉得真是个偷懒的好方法,
